@@ -2,5 +2,5 @@
 # project "Medivax" 
 # Here is the link of our gananshreya ai chatbot
 
-# https://gananashreya.vercel.app/
+# https://medivax.vercel.app/
 
