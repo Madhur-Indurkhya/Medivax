@@ -113,6 +113,32 @@ nav a:hover {
     background-color: green;
     color: white;
 }
+.ayushman{
+    position: absolute;
+    top: 53vh;
+    left:44vw;
+    background: #1bf4abee;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    padding: 22px 20px;
+    font-size: 18px;
+    width: 13vw;
+    height: 6vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    display: flex;
+    cursor: pointer;
+    z-index: 99;
+    font-family: "Winky Sans", sans-serif;
+    transition: 0.2s ease-in-out;
+}
+.ayushman:hover{
+    background: green;
+    color: white;
+}
 .problems {
     position: relative;
     right: 0;
@@ -320,7 +346,7 @@ nav a:hover {
     color: black;
     border: none;
     border-radius: 20px;
-    padding: 20px;
+    padding: 22px 20px;
     font-size: 18px;
     width: 13vw;
     height: 6vh;
@@ -330,6 +356,9 @@ nav a:hover {
     color: black;
     display: flex;
     cursor: pointer;
+    transition: 0.2s ease-in-out;
+    z-index: 99;
+    font-family: "Winky Sans", sans-serif;
 }
 .child-care:hover{
     background: green;
