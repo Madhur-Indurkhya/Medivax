@@ -1,5 +1,5 @@
 // Replace with your MapTiler API key
-const mapTilerApiKey = 'mbfz4Kf5w1KFmN1gZefd';
+const mapTilerApiKey = 'your_api_key';
 
 // Mock data for Ayushman Kendra centers
 const mockCenters = [
