@@ -1,7 +1,7 @@
 # Hello , welcome to team Gananshreya team
 # project "Medivax" 
 # Here is the link of website
-# https://medivaxsite.tiiny.site
+# https://medivaxsite-01.web.app/
 
 Below is the link of our medivax ai chatbot using gemini api
 
