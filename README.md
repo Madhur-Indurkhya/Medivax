@@ -51,4 +51,4 @@ Millions still lack access to basic healthcare due to distance, affordability, o
 Whether you're an individual, a student, an organization, or simply someone who cares — we’d love to connect. If you share our passion for accessible healthcare, let’s work together to make a difference.
 
 ## 🔗 Learn More
-Visit ### https://medivaxsite-01.web.app/  to find out more, explore partnership opportunities, or get involved.
+### Visit https://medivaxsite-01.web.app/  to find out more, explore partnership opportunities, or get involved.
