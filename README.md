@@ -26,9 +26,6 @@ Medivax offers a wide range of student-led services tailored to support underser
 ### Affordable & Free Healthcare Services
 Including primary care, health screenings, maternal and mental health support, and chronic disease management.
 
-### Mobile Clinics & Telehealth
-Reaching remote and rural areas with mobile setups and virtual consultations.
-
 ### Community Outreach & Education
 Spreading health awareness through campaigns, workshops, and training programs.
 
@@ -40,9 +37,6 @@ Sharing essential resources and guidance for expecting mothers.
 
 ### Medicine Price Comparisons
 Offering easy comparisons between pharmacy prices and government-supplied alternatives.
-
-### Advocacy & Awareness
-Engaging with local leaders and advocating for better healthcare access and reform.
 
 ## 🧭 Why It Matters
 Millions still lack access to basic healthcare due to distance, affordability, or lack of information. Medivax exists to challenge that reality — we aim to fill the gaps left by traditional healthcare systems and promote lasting health equity.
