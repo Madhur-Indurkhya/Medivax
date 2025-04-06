@@ -25,7 +25,7 @@
             <a href="#problems">Problems</a>
             <a href="#solutions" >Solutions</a>
             <a href="https://forms.gle/4Jw5wFKbs3Z8XhT58" target="_blank" rel="noopener noreferrer">Contact us</a>
-            <a href="about-us.html">About us</a>
+            <a href="about-us.html" class="about-us">About us</a>
            
         </div>
     </nav>
@@ -81,7 +81,7 @@
                 <h2>Corruption in Fund Transfers to NGOs
                 </h2>
                 <p>Corruption in fund transfers to NGOs prevents donations from reaching those in need. Middlemen and fraudulent practices siphon off funds, reducing their impact. Donors have no transparency on how their money is used. Administrative inefficiencies cause delays and misallocation of funds. Some fraudulent NGOs misuse donations for personal gain rather than charitable work. Lack of trust discourages individuals from donating, reducing overall support for social causes. Cash-based transactions increase the risk of fund misappropriation. Weak monitoring and reporting systems allow corruption to thrive. Many donors are unaware of tax benefits associated with charitable giving. A secure, transparent, and traceable fund transfer system is necessary to eliminate corruption and build trust.
-
+                    
                 </p>
             </div>
         </div>
@@ -95,7 +95,7 @@
             <div class="solution-1">
                 <img src="solutions1.jpg"
                     alt="">
-                <div class="solution-text">
+                <div >
                     <h2>High Cost of Medicine/drug
                     </h2>
                     <p>Our platform tackles high medication costs through transparency, assistance programs, and education. We offer real-time price comparisons, access to government subsidies, and awareness of generic alternatives. Partnerships with pharmacies and non-profits provide discounts, while telemedicine and e-prescriptions improve affordability. Home delivery services support elderly and disabled patients, and advocacy efforts promote fair drug pricing policies. AI-driven technology personalizes cost-saving recommendations, and collaboration with healthcare providers ensures affordable medication choices. By tracking savings and health outcomes, we continuously refine our strategies to maximize accessibility and affordability.</p>
@@ -109,25 +109,24 @@
     </div>
     <div class="solutions">
         <div class="solution">
-            <div class="solution-1">
+            <div class="solution-1-new">
                 <img src="https://lh7-us.googleusercontent.com/yoNd8SL4OXkLKTlv2xvacb2zCu0mI4eokIrBcPhPv1_AJhsDqR1dp3JuA1X100lzVb3LvZDua8c0Waj8jX31ke4kMB1ZuU6h3gyt2BEZSrHPeWUEHKfq2DU4PZWc8tgp_9AK47bGFYlNo9m-ED1pQkg"
                     alt="">
-                <div class="solution-text">
-                    <h2 style="position: relative;
-                    left:42vw;top:3vh;">Digital fund transfer system</h2>
+                <div class="solution-text-1">
+                    <h2 >Digital Patient donation platform</h2>
                     <p>Our secure digital fund transfer system ensures that donations reach verified NGOs without intermediaries. Real-time tracking and transparency allow donors to monitor fund usage, while strict verification prevents fraudulent organizations from accessing funds. Automated fund allocation sends donations directly to NGO accounts based on donor preferences. AI-powered fraud detection and blockchain integration enhance security and prevent financial manipulation. Donors receive detailed reports and tax benefits, encouraging more contributions. Community engagement through dashboards, social media, and webinars builds trust. Regular audits and compliance checks ensure ethical fund usage. The system continuously evolves based on feedback,improving transparency and NGO impact.</p>
-                    <!-- <button class="learn-more" style="cursor: pointer;"><a href="#learn-more"
-                            style="text-decoration: none; color: inherit;cursor: pointer;">learn more..</a></button> -->
+                    <a href="ngo.html"><button class="donation">Donation Platform
+                    </button></a>
                 </div>
             </div>
         </div>
     </div>
     <div class="solutions">
         <div class="solution">
-            <div class="solution-1">
+            <div class="solution-2-new">
                 <img src="solutions2.jpg"
                     alt="">
-                <div class="solution-text">
+                <div class="solution-text-2">
                     <h2>Increase of Child Mortality </h2>
                     <p>Our Child Vaccination Tracking System ensures timely immunization through structured scheduling, reminders, and education. Parents receive vaccination forms at birth and automated alerts via SMS, WhatsApp, and email. Community health workers assist in tracking and home visits, while partnerships with governments and NGOs provide free or subsidized vaccines. A mobile app helps parents manage schedules, find vaccination centers, and access information. Awareness campaigns in hospitals, schools, and social media emphasize vaccine importance. Collaboration with healthcare providers and policymakers strengthens immunization programs. Data-driven insights improve policies, and schools track vaccination records for enrolled children. Continuous monitoring ensures expansion and adaptation to community needs.</p>
 
@@ -191,6 +190,25 @@
         </div>
     </footer>
     <script src="app.js"></script>
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-app.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+      
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+          apiKey: "firebase_api_key", // hide for security
+          authDomain: "medivaxsite.firebaseapp.com",
+          projectId: "medivaxsite",
+          storageBucket: "medivaxsite.firebasestorage.app",
+           messagingSenderId: "***1292*****",  // hide for security
+          appId: "my_app_id" // hide for security
+        };
+      
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+      </script>
 </body>
 
 </html>
